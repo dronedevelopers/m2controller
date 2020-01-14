@@ -1,0 +1,4 @@
+*.pyc
+*.class
+pySDK/usrCfg.py
+javaSDK/usrCfg.java
